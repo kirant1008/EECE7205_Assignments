@@ -1,0 +1,42 @@
+Best Case : 
+
+Insertion Sort
+Moves : 0
+Comparisons : 999
+
+Heap Sort
+Moves : 29124
+Comparisons : 30627
+
+Quick Sort
+Moves : 0
+Comparisons : 501499
+
+Average Case : 
+
+Insertion Sort
+Moves : 714027
+Comparisons : 239008
+
+Heap Sort
+Moves : 27126
+Comparisons : 28629
+
+Quick Sort
+Moves : 14568
+Comparisons : 11576
+
+Worst Case : 
+
+Insertion Sort
+Moves : 1498500
+Comparisons : 500499
+
+Heap Sort
+Moves : 24948
+Comparisons : 26451
+
+Quick Sort
+Moves : 1500
+Comparisons : 501499
+
